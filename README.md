@@ -44,14 +44,6 @@
 - Eine Suchfunktion ermöglicht es Spielern, gezielt nach bestimmten Fragen zu suchen, um diese zu lernen oder zu prüfen, was die passende Antwort wäre.
 
 
-### Einschränkungen
-
-- Das System muss den Datenschutzbestimmungen entsprechen.
-- Das System muss in der Lage sein, die Tischkapazität zu berücksichtigen, um sicherzustellen, dass keine Reservierung mehr Gäste als die mögliche Sitzplatzanzahl des Tisches enthält.
-- Das System muss die Position der Tische berücksichtigen, um die Nachbarschaft zwischen den Sitzgruppen aufzuzeichnen.
-- Das System muss in der Lage sein, benachbarte Tische und Sitzgruppen zu identifizieren, um die Einhaltung der Abstandsregeln zu gewährleisten.
-- Das System muss mit unterschiedlichen Lokaltypen kompatibel sein, um sicherzustellen, dass es für verschiedene Arten von Restaurants und Bars geeignet ist.
-
 ### Overkill (muss erfüllt werden um einen 1er zu bekommen)
 
 - Ein Achievement-System, das Spieler für besondere Leistungen im Spiel auszeichnet, basierend auf den Namen, die genutzt werden.
