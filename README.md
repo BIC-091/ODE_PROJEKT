@@ -38,9 +38,9 @@
 
 - Spiel bietet einen “Schnellspiel”-Modus für eine schnelle Spielerfahrung, die gegen den eigenen Highscore stattfindet.
 - Das Spiel kann durch Login verschiedenen Funktionen freischalten (User, Editor, Admin)
-- User  Kann das Spiel spielen, Fragen erstellen
-- Editor  Kann alles was der User macht + kann Fragen von anderen User prüfen und editieren/validieren
-- Admin  Non plus ultra = Overpowered 😉
+- User  Kann das Spiel spielen, Fragen erstellen
+- Editor  Kann alles was der User macht + kann Fragen von anderen User prüfen und editieren/validieren
+- Admin  Non plus ultra = Overpowered 😉
 - Eine Suchfunktion ermöglicht es Spielern, gezielt nach bestimmten Fragen zu suchen, um diese zu lernen oder zu prüfen, was die passende Antwort wäre.
 
 
