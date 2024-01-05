@@ -25,6 +25,7 @@
 - Das Spiel unterstützt unterschiedliche Schwierigkeitsgrade für die Fragen.
 - Eine Highscore-Tabelle zeigt die besten Spieler an und motiviert so zu Wettbewerb.
 - Das Spiel soll eine Suche von Spielern, welche bereits gespielt haben, zur Verfügung stellen. Anders als bei der Highscore-Tabelle sollen hier nur die Personen angezeigt werden.
+- Show the top 3 players with better score
 
 
 ### Should haves (muss erfüllt werden um einen 3er zu bekommen)
@@ -32,6 +33,7 @@
 - Spieler können ihre eigenen benutzerdefinierten Quizfragen erstellen und der Fragenbank hinzufügen.
 - Das Spiel ermöglicht es Spielern, eigene benutzerdefinierte Quiz-Kategorien zu erstellen.
 - Das Spiel ermöglicht es ein erweitertes Profil zu erstellen darunter gehört auch fallen bspw. Profilbild/Icon und aktueller Wissenstand (Anfänger, Amateur, Fortgeschritten)
+- Personalized progress tracking (show record of w’s and l’s with the difficulty that they played)
 
 
 ### Nice to haves (muss erfüllt werden um einen 2er zu bekommen)
@@ -42,6 +44,7 @@
 - Editor  Kann alles was der User macht + kann Fragen von anderen User prüfen und editieren/validieren
 - Admin  Non plus ultra = Overpowered 😉
 - Eine Suchfunktion ermöglicht es Spielern, gezielt nach bestimmten Fragen zu suchen, um diese zu lernen oder zu prüfen, was die passende Antwort wäre.
+- The score (record) of the opponent they last played (to compare)
 
 
 ### Overkill (muss erfüllt werden um einen 1er zu bekommen)
@@ -49,3 +52,4 @@
 - Ein Achievement-System, das Spieler für besondere Leistungen im Spiel auszeichnet, basierend auf den Namen, die genutzt werden.
 - Ein Tutorial leitet neue Spieler durch die Benutzeroberfläche und Spielmechaniken.
 - Das Spiel bietet dir einen Bot-Modus der drei Stufen hat (Anfänger, Amateur, Fortgeschritten). Diese drei Stufen unterscheiden sich anhand der Fragenmenge (10, 30, 50). Der Spieler gewinnt nur wenn er alle Fragen richtig beantwortet hat.
+- Suggest next player to play against based on the record of w’s and l’s you have
